@@ -1,7 +1,7 @@
 # Ready Player Me avatar Anim Tester for Mixamo on Web
 
 This is a React project for post-processing Mixamo animations to make them work directly on RPM avatars.
-There has been an issue for long where animations from Mixamo to RPM did not correctly worked, useClip React hook in this project helps you extract a processed clip which works as expected.
+There has been an issue for long where animations from Mixamo to RPM did not correctly worked, `useClip` React hook in this project helps you extract a processed clip which works as expected.
 
 ## How to Use
 - Go to https://web-anim-test.vercel.app
